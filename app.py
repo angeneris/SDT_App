@@ -3,6 +3,16 @@ import scipy.stats
 import streamlit as st
 import time
 
+st.header('Tossing a Coin')
+
+number_of_trials = st.slider('Number of trials?', 1, 1000, 10)
+start_button = st.button('Run')
+
+if start_button:
+    st.write(f'Running the experient of {number_of_trials} trials.')
+
+st.write('It is not a functional application yet. Under construction.')
+
 # these are stateful variables which are preserved as Streamlin reruns this script
 if 'experiment_no' not in st.session_state:
     st.session_state['experiment_no'] = 0
