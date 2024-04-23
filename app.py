@@ -5,7 +5,7 @@ import time
 
 st.header('Tossing a Coin')
 
-number_of_trials = st.slider('Number of trials?', 1, 1000, 10)
+number_of_trials = st.slider('Number of trials?', 1, 1000, 10, key='trials_slider')
 start_button = st.button('Run')
 
 if start_button:
