@@ -8,7 +8,7 @@ The application is designed to provide a simple and interactive way to visualize
 
 
 ### **How to Use:**
- <br>  <br> 
+
 1. Clone the repository to your local machine. <br> 
 2. Install the required dependencies by running pip install -r requirements.txt.  <br> 
 3. Run the application using Streamlit by executing streamlit run coin_toss_simulator.py in your terminal. <br> 
