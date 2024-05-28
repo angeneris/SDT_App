@@ -1,4 +1,4 @@
-Coin Toss Simulator
+**Coin Toss Simulator**
 
 This is a simple application built using Streamlit that simulates random coin flips. It allows users to specify the number of trials and observe the resulting outcomes in real-time through a line chart.
 
@@ -9,8 +9,7 @@ The application is designed to provide a simple and interactive way to visualize
 
 
 **How to Use:**
- <br> 
-Running the app: <br> 
+ <br>  <br> 
 ✧ Clone the repository to your local machine. <br> 
 ✧ Install the required dependencies by running pip install -r requirements.txt.  <br> 
 ✧ Run the application using Streamlit by executing streamlit run coin_toss_simulator.py in your terminal. <br> 
