@@ -11,7 +11,7 @@ The application is designed to provide a simple and interactive way to visualize
 How to Use:
 
 Running the app:
-✧ Clone the repository to your local machine.
+✧ Clone the repository to your local machine. <br> 
 ✧ Install the required dependencies by running pip install -r requirements.txt.
 ✧ Run the application using Streamlit by executing streamlit run coin_toss_simulator.py in your terminal.
 ✧ Adjust the slider to specify the number of trials.
